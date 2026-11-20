@@ -1,1 +1,6 @@
 /* FOR THE NAVIGATION --ONLY-- */
+
+/*-- Breadcrumb --*/
+#fcz-breadcrumb-nav ol {
+    list-style-type: none;
+}
